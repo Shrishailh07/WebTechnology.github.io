@@ -1,0 +1,29 @@
+.box{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    border: 10px solid red;
+    padding: 50px;
+}
+body{
+    margin: 0;
+}
+
+.box1{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border: 10px solid black ;
+    padding: 50px;
+    margin: 50px;
+}
+.box2{
+    background-color: brown;
+
+    height: 100px;
+    width: 100px;
+    border: 10px solid rebeccapurple ;
+    padding: 50px;
+    margin: 50px;
+}
