@@ -1,0 +1,21 @@
+h2
+{
+    color: red;
+}
+
+h1,h2,h3{
+    font-size: 20px;
+}
+body{
+    background-image: url('2235017.jpg');   
+    background-size: 88%;
+    background-repeat: no-repeat;
+}
+.sheet {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#google {
+    color: whitesmoke;
+    height: 500px;
+}
